@@ -1,2 +1,1 @@
-# Restaurant-Management-System-Design
-Software Engineering coursework focused on requirements analysis, Agile methodology, and UI prototyping for a restaurant management system.
+This repository showcases coursework materials from a collaborative Software Engineering project. My work focused on Agile process model analysis, requirements gathering, and system requirements documentation. The included prototype was developed as part of the group coursework.
